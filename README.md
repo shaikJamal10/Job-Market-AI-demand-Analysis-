@@ -91,7 +91,7 @@ AI_JOB_ANALYSIS/
 │
 ├── README.md
 ├── .gitignore
-└── .env
+```
 
 ## SQL Analysis
 
