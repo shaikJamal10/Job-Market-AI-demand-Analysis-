@@ -20,12 +20,12 @@ The analysis focuses on understanding how AI is influencing the modern job marke
 
 The analysis revealed several important patterns in AI-driven hiring:
 
-- AI-related roles represent a significant share of technology and data-focused hiring.
-- AI demand varies considerably across companies and job functions.
-- AI requirements become more prominent at senior and lead-level positions.
-- LLMs, Artificial Intelligence, Machine Learning, and AI Agents are among the most frequently mentioned AI technologies.
-- Remote roles show measurable differences in AI-related hiring demand compared with non-remote roles.
-- AI hiring demand varies substantially across countries, highlighting geographic differences in the adoption of AI skills.
+- **21.9% of job postings** in the dataset mention AI-related skills.
+- **36.9% of AI-mentioned jobs** require AI skills or assign AI-related responsibilities.
+- **AI / Data Science roles** show the highest AI demand among the analyzed job functions.
+- **LLMs, Artificial Intelligence, Machine Learning, and AI Agents** are among the most frequently mentioned AI technologies.
+- **Remote roles account for approximately 32%** of all analyzed job postings.
+- AI demand varies considerably across **companies, job functions, seniority levels, and countries**, highlighting differences in how organizations and markets are adopting AI-related skills.
 
 ## Data Collection
 
